@@ -4,8 +4,8 @@ Google Trends is a website by Google that analyzes the popularity of top search 
 # Andrew Tate VS Donald Trump + Joe Biden
 
 On July 29 2022, Andrew Tate claims to be the most Googled person online: <br />
-** "I am more Googled than Donald Trump, Joe Biden. Look it up." - Andrew Tate ** <br />
-** "I'm the most Googled man on the fucking planet" - Andrew Tate **
+"**I am more Googled than Donald Trump, Joe Biden. Look it up." - Andrew Tate ** <br />
+"**I'm the most Googled man on the fucking planet" - Andrew Tate **
 
 Pretty bold statement if you ask me. We will export the data from Google Trends and use data visualisation tools such as Flourish to verify his claims. Furthermore, we will explore other
 
