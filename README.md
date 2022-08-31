@@ -20,3 +20,5 @@ The dataset below was exported from Google Trends and is a comparison of the fol
 | Andrew Tate  | 12        | 11        | 12        | … | 71         | 58         | 47         |
 | Joe Biden    | 11        | 11        | 10        | … | 14         | 13         | 10         |
 | Donald Trump | 10        | 9         | 9         | … | 11         | 15         | 14         |
+
+As shown above, we will only be using the data from July and August as the statement was made at the end of July. This is so that we can see the change in pattern before and after the incident.
