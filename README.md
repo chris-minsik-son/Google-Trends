@@ -1,4 +1,4 @@
-# Google Trends: Andrew Tate VS Donald Trump AND Joe Biden
+# Google Trends: Andrew Tate VS Donald Trump + Joe Biden
 
 On July 29 2022, Andrew Tate claims to be the most Googled person online: <br />
 "I am more Googled than Donald Trump, Joe Biden. Look it up. **I'm the most Googled man on the fucking planet**" - Andrew Tate
