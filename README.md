@@ -1,4 +1,6 @@
 # Google Trends
+Google Trends is a website by Google that analyzes the popularity of top search queries in Google Search across various regions and languages.
+
 # Andrew Tate VS Donald Trump + Joe Biden
 
 On July 29 2022, Andrew Tate claims to be the most Googled person online: <br />
