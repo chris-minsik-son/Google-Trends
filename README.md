@@ -29,6 +29,11 @@ Using Flourish.Studio, the following viusalisation was created below:
 <p align="center">
   <img width=75% height=75%" src="/Images/Visualisation 1a.png">
 
+We can observe that in comparison, Andrew Tate had higher interest than Joe Biden and Donald Trump on 29 July 2022. Although Joe Biden and Trump had higher interest peaks before the incident, on average, Andrew Tate has clearly outperformed Biden and Trump.
+                                                               
+<p align="center">
+  <img width=75% height=75%" src="/Images/Visualisation 1b.png">
+                                                               
 #### Dataset 2
 
 | Person            | 1/07/2022 | 2/07/2022 | 3/07/2022 | … | 27/08/2022 | 28/08/2022 | 29/08/2022 |
