@@ -47,3 +47,14 @@ Although Joe Biden and Trump had higher interest peaks before the incident, on a
 | Cristiano Ronaldo | 12        | 16        | 18        | … | 20         | 18         | 16         |
 
 Similarly, we will take the same approach using Dataset 2. However, this time we will explore more individuals that rank at the top for most searched people in 2022. As shown above, we will explore the interest over time for Andrew Tate, Elon Musk, Kim Kardashian, Amber Heard and Cristiano Ronaldo. Same as the previous dataset, we will only be using the data from July and August.
+
+Using Flourish.Studio, the following viusalisation was created below:
+<p align="center">
+  <img width=75% height=75%" src="/Images/Visualisation 2a.png">
+
+We can observe that in comparison, Andrew Tate had higher interest than Joe Biden and Donald Trump on 29 July 2022.
+                                                               
+<p align="center">
+  <img width=75% height=75%" src="/Images/Visualisation 2b.png">
+                                                               
+Although Joe Biden and Trump had higher interest peaks before the incident, on average, Andrew Tate has clearly outperformed Biden and Trump.
