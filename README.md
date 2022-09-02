@@ -28,15 +28,18 @@ In the dataset above, we will explore the interest over time for Andrew Tate, Jo
 Using Flourish.Studio, the following viusalisation was created below:
 <p align="center">
   <img width=75% height=75%" src="/Images/Visualisation 1a.png">
+</p>
 
 <p align="center">
 [Click here to view](https://public.flourish.studio/visualisation/11054892/)
-                                                               
+</p>
+
 We can observe that in comparison, Andrew Tate had higher interest than Joe Biden and Donald Trump on the day of the incident when the statement was made on 29 July 2022.
                                                                
 <p align="center">
   <img width=75% height=75%" src="/Images/Visualisation 1b.png">
-                                                               
+</p>
+
 Although Joe Biden and Trump had higher interest peaks before the incident, on average, Andrew Tate has clearly outperformed Biden and Trump.
 
 ### Dataset 2
@@ -54,15 +57,18 @@ Similarly, we will take the same approach using Dataset 2. However, this time we
 Using Flourish.Studio, the following viusalisation was created below:
 <p align="center">
   <img width=75% height=75%" src="/Images/Visualisation 2a.png">
-.
+</p>
+
 <p align="center">
   [Click here to view](https://public.flourish.studio/visualisation/11076235/)
-                                                               
+</p>
+
 We can observe that in comparison, Cristiano Ronaldo had higher interest than all other individuals including Andrew Tate on 29 July 2022. We can also observe before the incident date, Cristiano Ronaldo was more Googled than Andrew Tate on average.
                                                                
 <p align="center">
   <img width=75% height=75%" src="/Images/Visualisation 2b.png">
-                                                               
+</p>
+
 Although Cristiano Ronaldo had the highest peak (interest over time) on the day of the incident, on average, Andrew Tate maintained a higher average during the time period before and after the incident.
   
 ## Conclusion
