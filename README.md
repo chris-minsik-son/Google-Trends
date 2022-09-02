@@ -25,6 +25,10 @@ The datasets below were exported from Google Trends and is a comparison of the m
 
 In the dataset above, we will explore the interest over time for Andrew Tate, Joe Biden and Donald Trump. Moreover, we will only be using the data from July and August as the statement was made at the end of July. This is so that we can see the change in pattern before and after the incident.
 
+Using Flourish.Studio, the following viusalisation was created below:
+<p align="center">
+  <img width=40% height=40%" src="/Images/Visualisation-1.1.png">
+
 #### Dataset 2
 
 | Person            | 1/07/2022 | 2/07/2022 | 3/07/2022 | … | 27/08/2022 | 28/08/2022 | 29/08/2022 |
