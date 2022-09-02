@@ -52,9 +52,12 @@ Using Flourish.Studio, the following viusalisation was created below:
 <p align="center">
   <img width=75% height=75%" src="/Images/Visualisation 2a.png">
 
-We can observe that in comparison, Andrew Tate had higher interest than Joe Biden and Donald Trump on 29 July 2022.
+We can observe that in comparison, Cristiano Ronaldo had higher interest than all other individuals including Andrew Tate on 29 July 2022. We can also observe before the incident date, Cristiano Ronaldo was more Googled than Andrew Tate on average.
                                                                
 <p align="center">
   <img width=75% height=75%" src="/Images/Visualisation 2b.png">
                                                                
-Although Joe Biden and Trump had higher interest peaks before the incident, on average, Andrew Tate has clearly outperformed Biden and Trump.
+Although Cristiano Ronaldo had the highest peak (interest over time) on the day of the incident, on average, Andrew Tate maintained a higher average during the time period before and after the incident.
+  
+## Conclusion
+Yes, Andrew Tate was more Googled than Donald Trump and Joe Biden. However, we also noted that on the day of the incident that Andrew Tate made the statement, Cristiano Ronaldo was more Googled than him. Furthermore, when looking at the patterns before and after the incident, Andrew Tate was more Googled on average. In conclusion, we can verify that the statement Andrew Tate made was half correct. In other words, his statement in regards to being more Googled than Trump and Biden were true. However, his second statement in regards to him being the most Googled person on Earth was not.
