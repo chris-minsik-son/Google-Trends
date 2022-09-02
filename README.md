@@ -15,7 +15,7 @@ Emory Andrew Tate III (born December 14, 1986) is an American-British internet p
 ## Data Exploration
 The datasets below were exported from Google Trends and is a comparison of the most searched individuals' interest over time on Google.
 
-#### Dataset 1
+### Dataset 1
 
 | Person       | 1/07/2022 | 2/07/2022 | 3/07/2022 | … | 25/08/2022 | 26/08/2022 | 27/08/2022 |
 | ------------ | --------- | --------- | --------- | - | ---------- | ---------- | ---------- |
@@ -36,7 +36,7 @@ We can observe that in comparison, Andrew Tate had higher interest than Joe Bide
                                                                
 Although Joe Biden and Trump had higher interest peaks before the incident, on average, Andrew Tate has clearly outperformed Biden and Trump.
 
-#### Dataset 2
+### Dataset 2
 
 | Person            | 1/07/2022 | 2/07/2022 | 3/07/2022 | … | 27/08/2022 | 28/08/2022 | 29/08/2022 |
 | ----------------- | --------- | --------- | --------- | - | ---------- | ---------- | ---------- |
