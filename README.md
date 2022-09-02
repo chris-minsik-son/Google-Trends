@@ -29,7 +29,8 @@ Using Flourish.Studio, the following viusalisation was created below:
 <p align="center">
   <img width=75% height=75%" src="/Images/Visualisation 1a.png">
 
-[Click here to view](https://public.flourish.studio/visualisation/11054892/)
+<p align="center">
+  [Click here to view](https://public.flourish.studio/visualisation/11054892/)
                                                                
 We can observe that in comparison, Andrew Tate had higher interest than Joe Biden and Donald Trump on the day of the incident when the statement was made on 29 July 2022.
                                                                
@@ -54,7 +55,8 @@ Using Flourish.Studio, the following viusalisation was created below:
 <p align="center">
   <img width=75% height=75%" src="/Images/Visualisation 2a.png">
 
-[Click here to view](https://public.flourish.studio/visualisation/11076235/)
+<p align="center">
+  [Click here to view](https://public.flourish.studio/visualisation/11076235/)
                                                                
 We can observe that in comparison, Cristiano Ronaldo had higher interest than all other individuals including Andrew Tate on 29 July 2022. We can also observe before the incident date, Cristiano Ronaldo was more Googled than Andrew Tate on average.
                                                                
