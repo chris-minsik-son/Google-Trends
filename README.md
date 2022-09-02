@@ -15,6 +15,8 @@ Emory Andrew Tate III (born December 14, 1986) is an American-British internet p
 ## Data Exploration
 The dataset below was exported from Google Trends and is a comparison of the following individuals' interest over time on Google: Andrew Tate, Joe Biden and Donald Trump.
 
+#### Dataset 1
+
 | Person       | 1/07/2022 | 2/07/2022 | 3/07/2022 | … | 25/08/2022 | 26/08/2022 | 27/08/2022 |
 | ------------ | --------- | --------- | --------- | - | ---------- | ---------- | ---------- |
 | Andrew Tate  | 12        | 11        | 12        | … | 71         | 58         | 47         |
