@@ -30,7 +30,7 @@ Using Flourish.Studio, the following viusalisation was created below:
   <img width=75% height=75%" src="/Images/Visualisation 1a.png">
 
 <p align="center">
-  [Click here to view](https://public.flourish.studio/visualisation/11054892/)
+[Click here to view](https://public.flourish.studio/visualisation/11054892/)
                                                                
 We can observe that in comparison, Andrew Tate had higher interest than Joe Biden and Donald Trump on the day of the incident when the statement was made on 29 July 2022.
                                                                
