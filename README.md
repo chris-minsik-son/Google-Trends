@@ -54,7 +54,7 @@ Similarly, we will take the same approach using Dataset 2. However, this time we
 Using Flourish.Studio, the following viusalisation was created below:
 <p align="center">
   <img width=75% height=75%" src="/Images/Visualisation 2a.png">
-
+.
 <p align="center">
   [Click here to view](https://public.flourish.studio/visualisation/11076235/)
                                                                
