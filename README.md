@@ -27,7 +27,7 @@ In the dataset above, we will explore the interest over time for Andrew Tate, Jo
 
 Using Flourish.Studio, the following viusalisation was created below:
 <p align="center">
-  <img width=40% height=40%" src="/Images/Visualisation-1a.png">
+  <img width=40% height=40%" src="/Images/Visualisation 1a.png">
 
 #### Dataset 2
 
